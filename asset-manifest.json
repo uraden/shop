@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/uraden/static/css/main.cc9c7939.chunk.css",
+    "main.js": "/uraden/static/js/main.20892668.chunk.js",
+    "main.js.map": "/uraden/static/js/main.20892668.chunk.js.map",
+    "runtime-main.js": "/uraden/static/js/runtime-main.29676c65.js",
+    "runtime-main.js.map": "/uraden/static/js/runtime-main.29676c65.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/uraden/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.1e04ab25.chunk.js": "/uraden/static/js/2.1e04ab25.chunk.js",
+    "static/js/2.1e04ab25.chunk.js.map": "/uraden/static/js/2.1e04ab25.chunk.js.map",
+    "static/js/3.9a09addf.chunk.js": "/uraden/static/js/3.9a09addf.chunk.js",
+    "static/js/3.9a09addf.chunk.js.map": "/uraden/static/js/3.9a09addf.chunk.js.map",
+    "index.html": "/uraden/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/uraden/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.cc9c7939.chunk.css.map": "/uraden/static/css/main.cc9c7939.chunk.css.map",
+    "static/js/2.1e04ab25.chunk.js.LICENSE.txt": "/uraden/static/js/2.1e04ab25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29676c65.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.1e04ab25.chunk.js",
+    "static/css/main.cc9c7939.chunk.css",
+    "static/js/main.20892668.chunk.js"
+  ]
+}
